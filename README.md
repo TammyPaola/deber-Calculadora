@@ -6,8 +6,11 @@ mi calculadora dara las siguiente ordenes en la consola
  se va a elejir la operacion que se desee realizar y saldra automanticamente  el ingreso de los numeros 
  -ingrese primer numero 
  3
- -ingrese segundo numero 
- 5
- - sla respuesta de los dos numeros es 8 
-   va a salir un mensaje si desea contituar  con  la  calculadora si es si 
-   vue3lve al inico y si es NO.!  dira aplasta cualquier tecla 
+ -ingrese segundo  numero
+  5
+  
+ -la respuesta de los dos numeros es 8
+  
+  si desea seguir  nuemante con la calculadora ?
+  debera colocar Si o No! si es si le volvera a preguntar que operacion desea realizar .
+   si es NO! le saldra  aplaste cualquier tecla y termina la ejecucion del programa.
